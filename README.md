@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francoisao
 - 👀 I’m interested in science, technology, particulary in privacy, security and additive manufacturing
-- 🌱 I’m currently learning powershell, python,… and hopefully C
+- 🌱 I’m currently learning powershell, python, NX… and hopefully C
 - 💞️ I’m looking to collaborate on nice additive manufacturing software projects
 
 <!---
